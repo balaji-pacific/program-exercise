@@ -4,12 +4,13 @@
 package com.java.programs.exercise;
 
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 
 /**
  * @author balajisoundarrajan
  * Count the word using in the given sentence using hashmap
- *
+ * Iterate the map using while and for
  */
 public class CountWordUsingMap {
 
@@ -31,6 +32,12 @@ public class CountWordUsingMap {
 		}
 		
 		for(Map.Entry<String, Integer> mapEntry : hashMap.entrySet()) {
+			System.out.println(mapEntry.getKey() + " occured " + mapEntry.getValue() + " times");
+		}
+		
+		Iterator<Map.Entry<String, Integer>> iterator = hashMap.entrySet().iterator();
+		while(iterator.hasNext()) {
+			Map.Entry<String, Integer> mapEntry = iterator.next();
 			System.out.println(mapEntry.getKey() + " occured " + mapEntry.getValue() + " times");
 		}
 
