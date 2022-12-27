@@ -50,7 +50,7 @@ public class MaxOccCharacter {
 	
 	public static void findMaxOccChar() {
 		
-		String str = "ASKDJGNETTKDSDWSAS";
+		String str = "ASKDHJHFJHGJGNDDDDDDDDDDDETTKDSDWSAS";
 		HashMap<String, Integer> actualMap = new HashMap<String, Integer>();
 		LinkedHashMap<String, Integer> sortedMap = new LinkedHashMap<String, Integer>();
 		for(int i=0;i<str.length();i++) {
