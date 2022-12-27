@@ -22,7 +22,7 @@ public class SomasaMasterProducer implements Runnable{
 		
 		for(int i=1;i<=100; i++) {
 			try {
-				System.out.println("Producing Somasa of spizy level " + i);
+				System.out.println("Cooking Somasa with spizy level " + i + " adding into the tray");
 				somasa.put(new Somasa(Integer.valueOf(i)));
 				Thread.sleep(200);
 			} catch (InterruptedException e) {

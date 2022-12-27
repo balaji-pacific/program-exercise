@@ -21,7 +21,7 @@ public class ToGoBoyConsumer implements Runnable{
 	public void run() {
 		while(true) {
 			try {
-				System.out.println("Taking outSomasa with spizy level : " + somasa.take().getSpizyLevel());
+				System.out.println("Taking out Somasa with spizy level " + somasa.take().getSpizyLevel() + " from the tray");
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
