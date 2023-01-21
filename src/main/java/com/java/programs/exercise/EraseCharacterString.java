@@ -4,7 +4,7 @@
 package com.java.programs.exercise;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  * 
  * Can you write a method that will erase any character from a string?
  *
@@ -17,6 +17,7 @@ public class EraseCharacterString {
 	public static void main(String[] args) {
 		
 		String str = "Tamil is a very good Language";
+		
 		char ch = 'a';
 		StringBuffer sb = new StringBuffer();
 		

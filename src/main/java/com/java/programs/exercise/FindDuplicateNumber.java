@@ -4,7 +4,7 @@
 package com.java.programs.exercise;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  * Can you find duplicate numbers in an array?
  *
  */

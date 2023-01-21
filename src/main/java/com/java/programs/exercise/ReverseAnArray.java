@@ -4,7 +4,7 @@
 package com.java.programs.exercise;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  * How do you reverse an array in place in Java?
  *
  */

@@ -7,7 +7,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  *
  */
 public class SomasaShop {

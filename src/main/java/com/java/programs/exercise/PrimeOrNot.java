@@ -4,7 +4,7 @@
 package com.java.programs.exercise;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  * Check the given number is Prime or not
  */
 public class PrimeOrNot {

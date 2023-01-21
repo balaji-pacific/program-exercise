@@ -4,7 +4,7 @@
 package com.java.programs.exercise;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  * 
  * Program to find the Fibonacci Series
  *

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  *
  */
 public class IterationForWhileAdvanceFor {

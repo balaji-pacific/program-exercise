@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  * Count the word using in the given sentence using hashmap
  * Iterate the map using while and for
  */

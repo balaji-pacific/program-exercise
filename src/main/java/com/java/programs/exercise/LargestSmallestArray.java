@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.TreeSet;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  * How do you find the largest and smallest number in an array of 1-100
  */
 public class LargestSmallestArray {

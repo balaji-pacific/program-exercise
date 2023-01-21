@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  * 
  * How do you find the maximum occurring character in a given string
  *

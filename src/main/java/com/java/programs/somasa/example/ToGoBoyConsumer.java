@@ -6,7 +6,7 @@ package com.java.programs.somasa.example;
 import java.util.concurrent.BlockingQueue;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  *
  */
 public class ToGoBoyConsumer implements Runnable{

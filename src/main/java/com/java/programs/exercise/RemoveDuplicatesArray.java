@@ -5,7 +5,7 @@ import java.util.TreeSet;
 
 /**
  * 
- * @author balajisoundarrajan Can you remove duplicates from an array?
+ * @author Balaji Soundarrajan Can you remove duplicates from an array?
  */
 public class RemoveDuplicatesArray {
 

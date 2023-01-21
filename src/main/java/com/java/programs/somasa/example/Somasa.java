@@ -4,7 +4,7 @@
 package com.java.programs.somasa.example;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  *
  */
 public class Somasa {

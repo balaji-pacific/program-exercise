@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author balajisoundarrajan
+ * @author Balaji Soundarrajan
  *
  */
 public class HighestNumberInArray {
@@ -23,7 +23,7 @@ public class HighestNumberInArray {
 		List al =  (List) Arrays.asList(intArray);
 		Collections.sort(al);
 		
-		System.out.println(al.get(al.size()-2));
+		System.out.println(al.get(al.size()-1));
 		
 		
 
